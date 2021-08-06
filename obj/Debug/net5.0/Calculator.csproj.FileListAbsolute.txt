@@ -1,0 +1,32 @@
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Dorcas Bamisile\Documents\Women Techsters\C#\Week 9\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
